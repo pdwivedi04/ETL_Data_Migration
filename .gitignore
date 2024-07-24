@@ -6,7 +6,7 @@ project_root/**/*.pyc
 .env
 
 # Ignore logs
-project_root/data/logs/
+/data/logs/
 
 # Ignore virtual environments
 venv/
