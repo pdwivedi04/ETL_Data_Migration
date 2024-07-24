@@ -8,6 +8,7 @@ project_root/**/*.pyc
 # Ignore logs
 logs/
 
+dags/
 # Ignore virtual environments
 venv/
 env/
